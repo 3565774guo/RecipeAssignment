@@ -1,0 +1,14 @@
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\bin\Debug\net10.0\RecipeAssignment.exe
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\bin\Debug\net10.0\RecipeAssignment.deps.json
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\bin\Debug\net10.0\RecipeAssignment.runtimeconfig.json
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\bin\Debug\net10.0\RecipeAssignment.dll
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\bin\Debug\net10.0\RecipeAssignment.pdb
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.AssemblyInfoInputs.cache
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.AssemblyInfo.cs
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.dll
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\refint\RecipeAssignment.dll
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.pdb
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\RecipeAssignment.genruntimeconfig.cache
+C:\Users\郭则雄\Desktop\information\RecipeAssignment\obj\Debug\net10.0\ref\RecipeAssignment.dll
